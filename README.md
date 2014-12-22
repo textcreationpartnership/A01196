@@ -33,30 +33,18 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-THE Ioyful and royal entertainment of the ryght high and mightie Prince, Frauncis the Frenche Kings 
+
 1. The Preface.
 
 #####Body#####
 
 1. ¶ The departing of the Mounsire the Duke of Aniow out of England, and the receiuing of him into Zeland.
 
-    _ The order of his entering in was such as this.
-
-    _ The othe made by Frauncis Duke of Brabād to the members of the right renowmed citie of Antwerpe: and the othe made
-
-by them againe vnto his highnes.
-
 1. ❧ The royall entertainement of the right high and mightye Prince, Frauncis the French Kings only brother, by the grace of God Duke of Braband, Aniow, Alaunson, Berry &c. into the citie of Antwerp.
 
     _ The order of his entering in was such as this.
 
-    _ The othe made by Frauncis Duke of Brabād to the members of the right renowmed citie of Antwerpe: and the othe made
-
-by them againe vnto his highnes.
-
 1. Too Frauncis the Sonne of Henrie the second, and onelie brother of Henrie the thirde King of Fraunce, called by Gods singuler prouidence to the souereigne Principalitie of the low Countries, and to the Dukedom of Braband, & the Marqueship of the sacred Empyre, which God graunt to bee most happie and luckie vnto him, as to their inuested Prince whom they haue most earnestly wished for, & who as now is happily come intoo this his most •er uisable citie, His moste harty Fauourers.
-
-    _ The order of his entering in was such as this.
 
     _ The othe made by Frauncis Duke of Brabād to the members of the right renowmed citie of Antwerpe: and the othe made
 
@@ -101,51 +89,44 @@ There are 115 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|9||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|5||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|9||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|5||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__back__|1||
-|2.|__body__|1||
-|3.|__closer__|2||
-|4.|__desc__|115||
-|5.|__div__|9| @__type__ (9) : title_page (1), preface (1), text (3), part (2), letter_patent (1), colophon (1)|
-|6.|__front__|1||
-|7.|__g__|751| @__ref__ (751) : char:EOLhyphen (574), char:leaf (2), char:cmbAbbrStroke (173), char:punc (2)|
-|8.|__gap__|115| @__reason__ (115) : illegible (115)  •  @__resp__ (115) : #APEX (115)  •  @__extent__ (115) : 1 word (11), 1 letter (104)|
-|9.|__head__|8| @__type__ (1) : sub (1)|
-|10.|__hi__|276| @__rend__ (193) : sup (193)|
-|11.|__l__|95||
-|12.|__lg__|20||
-|13.|__p__|118||
-|14.|__pb__|106| @__facs__ (106) : tcp:12989:1 (2), tcp:12989:2 (2), tcp:12989:3 (2), tcp:12989:4 (2), tcp:12989:5 (2), tcp:12989:6 (2), tcp:12989:7 (2), tcp:12989:8 (2), tcp:12989:9 (2), tcp:12989:10 (2), tcp:12989:11 (2), tcp:12989:12 (2), tcp:12989:13 (2), tcp:12989:14 (2), tcp:12989:15 (2), tcp:12989:16 (2), tcp:12989:17 (2), tcp:12989:18 (2), tcp:12989:19 (2), tcp:12989:20 (2), tcp:12989:21 (2), tcp:12989:22 (2), tcp:12989:23 (2), tcp:12989:24 (2), tcp:12989:25 (2), tcp:12989:26 (2), tcp:12989:27 (2), tcp:12989:28 (2), tcp:12989:29 (2), tcp:12989:30 (2), tcp:12989:31 (2), tcp:12989:32 (2), tcp:12989:33 (2), tcp:12989:34 (2), tcp:12989:35 (2), tcp:12989:36 (2), tcp:12989:37 (2), tcp:12989:38 (2), tcp:12989:39 (2), tcp:12989:40 (2), tcp:12989:41 (2), tcp:12989:42 (2), tcp:12989:43 (2), tcp:12989:44 (2), tcp:12989:45 (2), tcp:12989:46 (2), tcp:12989:47 (2), tcp:12989:48 (2), tcp:12989:49 (2), tcp:12989:50 (2), tcp:12989:51 (2), tcp:12989:52 (2), tcp:12989:53 (2)  •  @__rendition__ (1) : simple:additions (1)|
-|15.|__seg__|4| @__rend__ (4) : decorInit (4)|
-|16.|__signed__|1||
+|1.|__closer__|2||
+|2.|__desc__|115||
+|3.|__div__|9| @__type__ (9) : title_page (1), preface (1), text (3), part (2), letter_patent (1), colophon (1)|
+|4.|__g__|751| @__ref__ (751) : char:EOLhyphen (574), char:leaf (2), char:cmbAbbrStroke (173), char:punc (2)|
+|5.|__gap__|115| @__reason__ (115) : illegible (115)  •  @__resp__ (115) : #APEX (115)  •  @__extent__ (115) : 1 word (11), 1 letter (104)|
+|6.|__head__|8| @__type__ (1) : sub (1)|
+|7.|__hi__|276| @__rend__ (193) : sup (193)|
+|8.|__l__|95||
+|9.|__lg__|20||
+|10.|__p__|118||
+|11.|__pb__|106| @__facs__ (106) : tcp:12989:1 (2), tcp:12989:2 (2), tcp:12989:3 (2), tcp:12989:4 (2), tcp:12989:5 (2), tcp:12989:6 (2), tcp:12989:7 (2), tcp:12989:8 (2), tcp:12989:9 (2), tcp:12989:10 (2), tcp:12989:11 (2), tcp:12989:12 (2), tcp:12989:13 (2), tcp:12989:14 (2), tcp:12989:15 (2), tcp:12989:16 (2), tcp:12989:17 (2), tcp:12989:18 (2), tcp:12989:19 (2), tcp:12989:20 (2), tcp:12989:21 (2), tcp:12989:22 (2), tcp:12989:23 (2), tcp:12989:24 (2), tcp:12989:25 (2), tcp:12989:26 (2), tcp:12989:27 (2), tcp:12989:28 (2), tcp:12989:29 (2), tcp:12989:30 (2), tcp:12989:31 (2), tcp:12989:32 (2), tcp:12989:33 (2), tcp:12989:34 (2), tcp:12989:35 (2), tcp:12989:36 (2), tcp:12989:37 (2), tcp:12989:38 (2), tcp:12989:39 (2), tcp:12989:40 (2), tcp:12989:41 (2), tcp:12989:42 (2), tcp:12989:43 (2), tcp:12989:44 (2), tcp:12989:45 (2), tcp:12989:46 (2), tcp:12989:47 (2), tcp:12989:48 (2), tcp:12989:49 (2), tcp:12989:50 (2), tcp:12989:51 (2), tcp:12989:52 (2), tcp:12989:53 (2)  •  @__rendition__ (1) : simple:additions (1)|
+|12.|__seg__|4| @__rend__ (4) : decorInit (4)|
+|13.|__signed__|1||
